@@ -1,4 +1,4 @@
-#LIVE Project Link - https://spectacular-taiyaki-05b02d.netlify.app/
+**LIVE Project Link** - https://spectacular-taiyaki-05b02d.netlify.app/
 
 ![image](https://github.com/chetankush/CSV-visualizer-web-app/assets/78559285/31ca16da-2170-438e-8509-fccb901d840e)
 
